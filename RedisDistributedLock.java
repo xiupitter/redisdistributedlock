@@ -11,7 +11,7 @@ import redis.clients.jedis.JedisPoolConfig;
 /**
  * 基于redis的分布式锁
  * 
- * @author fangt
+ * @author Xiupitter
  *
  */
 public class RedisDistributedLock implements Lock{
